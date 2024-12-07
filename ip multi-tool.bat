@@ -3,7 +3,7 @@ chcp 65001 >nul
 color 3
 title ip multi tool
 set /p pass="Enter password: "
-if "%pass%" NEQ "harryfrodsham" exit
+if "%pass%" NEQ "123456789" exit
 cls
 :menu
 echo  ██▓ ██▓███      ███▄ ▄███▓ █    ██  ██▓  ▄▄▄█████▓ ██▓▄▄▄█████▓ ▒█████   ▒█████   ██▓    
